@@ -21,6 +21,7 @@ The **Drum Kit** is an interactive web application that simulates a drum set. Us
 - **CSS**: Styles the drum kit, including the button animations and overall layout.
 - **JavaScript**: Handles user interactions, sound playback, and animations.
 
+
 ## Installation
 
 To get started with the project, follow these steps:
